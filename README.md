@@ -1,3 +1,2 @@
 # CrudNode
-
-##Crud Básico feito usando node.js, mongoDB e express... usando model e controller para separar as funcionalidades e um arquivo route.js para facilidar as configurações das rotas.
+##Basic Crud made using node.js, mongoDB and express ... using model and controller to separate the functionalities and a route.js file to facilitate configuring the routes.
